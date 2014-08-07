@@ -20,16 +20,7 @@ undum.game.situations = {
     start: new undum.SimpleSituation(
         "<h1>Starting Out with Undum</h1>\
         <img src='media/games/tutorial/woodcut1.png' class='float_right'>\
-        <p>Welcome to the Undum tutorial. Undum is a tool for writing\
-        hypertext interactive fiction. It has some unique features\
-        and a visual design that encourages narrative games.</p>\
-        \
-        <p>Hypertext interactive fiction is the digital equivalent of the\
-        Choose Your Own Adventure (CYOA) books that were popular in the\
-        1980s. The story is told in chunks, and you select from a range\
-        of options to move it forward. Unlike the book form, however, the\
-        digital form gives you far more flexibility to tell rich stories\
-        and introduce more interesting game elements.</p>\
+        <p>Hello World.</p>\
         \
         <p class='transient'>Click <a href='hub'>this link to\
         continue...</a></p>"
