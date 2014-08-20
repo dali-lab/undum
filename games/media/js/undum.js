@@ -1591,11 +1591,11 @@
             });
             if (interactive) {
                 if (mobile) {
-                    $('#content .transient, #content ul.options, #title').
-                        fadeOut(2000);
+                    $('#content .transient, #content ul.options, #title	').
+                        fadeOut(20);
                 } else {
                     $('#content .transient, #content ul.options, #title').
-                        animate({opacity: 0}, 1500).
+                        animate({opacity: 0}, 20).
                         slideUp(500, function() {
                             $(this).remove();
                         });
